@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228e66"],{dac6:function(e,n,u){"use strict";u.r(n);var r=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[u("h1",[e._v("UserInfo")]),u("h3",[e._v("user name:")]),u("p",[e._v(e._s(e.userName))]),u("h3",[e._v("ID:")]),u("p",[e._v(e._s(e.userId))])])},s=[],t={data:function(){return{userName:"Steven Chou",userId:9527}}},a=t,c=u("2877"),o=Object(c["a"])(a,r,s,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d228e66.dbd0f749.js.map
